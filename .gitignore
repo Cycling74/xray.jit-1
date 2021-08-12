@@ -6,3 +6,5 @@ CVS
 xcuserdata
 *.xcworkspace
 build
+
+package-info.json

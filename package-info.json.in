@@ -1,0 +1,25 @@
+{
+	"author" : "Wesley Smith",
+	"description" : "A collection of useful Jitter utility objects for working with data, geometry, and video. Includes objects for quick sorting, contour mapping, water simulation, and more.",
+	"homepatcher" : "XRAY Launch.maxpat",
+	"max_version_min" : "8.0",
+ 	"max_version_max" : "none",
+	"name" : "XRAY",
+	"os" : {
+		"macintosh" : {
+			"platform" : [ "x64" ],
+			"min_version" : "10.9.x"
+		},
+		"windows" : {
+			"platform" : [ "x64" ],
+			"min_version" : "none"
+		}
+	},
+	"package_extra" : {
+		"reverse_domain" : "com.cycling74",
+		"copyright" : "Copyright (c) 2021 Cycling '74"
+	},
+	"tags" : [ ],
+	"version" : "@GIT_VERSION_MAJ@.@GIT_VERSION_MIN@.@GIT_VERSION_SUB@",
+	"website" : "https://cycling74.com/abletonlink/"
+}
